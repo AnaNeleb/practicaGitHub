@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+﻿<!DOCTYPE html>
 <!--
 To change this license header, choose License Headers in Project Properties.
 To change this template file, choose Tools | Templates
@@ -38,7 +38,7 @@ and open the template in the editor.
             Paginas:<input type="text" name="paginas" value="<?php echo $libro >
                           getPaginas();
         ?>"><br>
-            <input type="submit" value="Actualizar">
+            <input type="submit" value="Modificar">
         </form>
     </body>
 </html>
