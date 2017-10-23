@@ -38,7 +38,7 @@ and open the template in the editor.
             Paginas:<input type="text" name="paginas" value="<?php echo $libro >
                           getPaginas();
         ?>"><br>
-            <input type="submit" value="Modificar">
+            <input type="submit" value="1111111">
         </form>
     </body>
 </html>
