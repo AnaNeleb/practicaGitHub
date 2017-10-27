@@ -18,6 +18,14 @@ class Libro {
     private $anio;
     private $autor;
     private $paginas;
+    private $editorial;
+
+   function getEditorial() {
+        return $this->editorial;
+    }
+  function setEditorial($editorial) {
+        $this->editorial = $editorial;
+    }
 
     function getCodigo() {
         return $this->codigo;
